@@ -11,6 +11,7 @@ English | [简体中文](./README_cn.md) | [日本語](./README_ja.md)
 [![Release](https://img.shields.io/github/release/PaddlePaddle/Paddle.svg)](https://github.com/PaddlePaddle/Paddle/releases)
 [![License](https://img.shields.io/badge/license-Apache%202-blue.svg)](LICENSE)
 [![Twitter](https://img.shields.io/badge/Twitter-1ca0f1.svg?logo=twitter&logoColor=white)](https://twitter.com/PaddlePaddle)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdainyoon03%2FPaddle-test.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdainyoon03%2FPaddle-test?ref=badge_shield)
 
 Welcome to the PaddlePaddle GitHub.
 
@@ -101,3 +102,6 @@ We provide [English](https://www.paddlepaddle.org.cn/documentation/docs/en/guide
 ## Copyright and License
 
 PaddlePaddle is provided under the [Apache-2.0 license](LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdainyoon03%2FPaddle-test.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdainyoon03%2FPaddle-test?ref=badge_large)
